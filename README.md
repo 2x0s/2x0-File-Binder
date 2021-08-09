@@ -4,4 +4,4 @@ I am not responsible for any misuse of this tool it is made for Pen testers or p
                                                            Options
                                                    Select Multiple Files
                                                      Add a custom Icon 
-                                             Pump Binded Files to whatever size you want
+                                           Pump Binded Files to whatever size you want
